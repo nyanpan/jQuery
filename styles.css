@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.big-title{
+    font-size: 4rem;
+    font-family: cursive;
+    color: darkslateblue;
+}

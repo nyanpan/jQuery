@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+.h1-red{
+    color: red;
+    background-color: blue;
+}
+
+.h1-blue{
+    color: blue;
+    background-color: red;
+}
+
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}

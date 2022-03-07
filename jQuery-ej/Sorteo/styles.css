@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.participante{
+    margin: 20px;
+    padding: 10px;
+    border: solid 2px darkblue;
+
+}
+
+.selected{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+#contador{
+    font-size: 2rem;
+    color: darkblue;
+    text-align: center;
+    margin-top: 50px;
+}
